@@ -68,7 +68,7 @@ Website Privacy Policy Page 4 of 4 will be deleted as soon as possible. If a chi
 personal data their parent or guardian may contact our privacy officer.
 How to Access, Modify, Delete, or Challenge the Data Collected
 If you would like to know if we have collected your personal data, how we have used your personal data, if we have disclosed your personal data and to who we disclosed your personal data, or if you would like your data to be deleted or modified in any way, please contact our privacy officer here:
-Francisco Orta Bazán Pacebud1@gmail.com (956) 561-6125
+Francisco Orta Bazán orzansolutions@gmail.com.com (956) 561-6125
 3404 Beacon Court
 Do Not Track Notice
 Do Not Track ("DNT") is a privacy preference that you can set in certain web browsers. We do not track the users of our Site over time and across third party websites and therefore do not respond to browser-initiated DNT signals.
@@ -76,5 +76,5 @@ Modifications
 This Privacy Policy may be amended from time to time in order to maintain compliance with the law and to reflect any changes to our data collection process. When we amend this Privacy Policy we will update the "Effective Date" at the top of this Privacy Policy. We recommend that our users periodically review our Privacy Policy to ensure that they are notified of any updates. If necessary, we may notify users by email of changes to this Privacy Policy.
 Contact Information
 If you have any questions, concerns or complaints, you can contact our privacy officer, Francisco Orta Bazán, at:
-Pacebud1@gmail.com (956) 561-6125
+orzansolutions@gmail.com.com (956) 561-6125
 3404 Beacon Court
