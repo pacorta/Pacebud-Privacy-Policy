@@ -1,8 +1,9 @@
-Pacerunner Privacy Policy
+Pacebud Privacy Policy
 Type of website: Running App Effective date: 20th day of October, 2024
-Pacerunner is owned and operated by Francisco Orta Bazán. Francisco Orta Bazán can be contacted at:
-pacerunner1@gmail.com (956) 561-6125
+Pacebud is owned and operated by Francisco Orta Bazán. Francisco Orta Bazán can be contacted at:
+orzansolutions@gmail.com | (956) 561-6125
 3404 Beacon St
+
 Purpose
 The purpose of this privacy policy (this "Privacy Policy") is to inform users of our Site of the following:
 1. The personal data we will collect;
@@ -46,7 +47,7 @@ If you follow hyperlinks from our Site to another Site, please note that we are 
 Website Privacy Policy Page 3 of 4 How Long We Store Personal Data
 User data will be stored until the purpose the data was collected for has been achieved. You will be notified if your data is kept for longer than this period.
 How We Protect Your Personal Data
-At Pacerunner, we are committed to protecting the privacy and security of our users’ data. We have implemented the following measures to ensure that any personal data collected is handled with the utmost care:
+At Pacebud, we are committed to protecting the privacy and security of our users’ data. We have implemented the following measures to ensure that any personal data collected is handled with the utmost care:
 1. Data Encryption:
 All data transmitted between the app and our servers is encrypted using HTTPS (SSL/TLS) protocols to prevent unauthorized access during transmission.
 2. Firebase Security:
@@ -67,7 +68,7 @@ Website Privacy Policy Page 4 of 4 will be deleted as soon as possible. If a chi
 personal data their parent or guardian may contact our privacy officer.
 How to Access, Modify, Delete, or Challenge the Data Collected
 If you would like to know if we have collected your personal data, how we have used your personal data, if we have disclosed your personal data and to who we disclosed your personal data, or if you would like your data to be deleted or modified in any way, please contact our privacy officer here:
-Francisco Orta Bazán pacerunner1@gmail.com (956) 561-6125
+Francisco Orta Bazán Pacebud1@gmail.com (956) 561-6125
 3404 Beacon Court
 Do Not Track Notice
 Do Not Track ("DNT") is a privacy preference that you can set in certain web browsers. We do not track the users of our Site over time and across third party websites and therefore do not respond to browser-initiated DNT signals.
@@ -75,5 +76,5 @@ Modifications
 This Privacy Policy may be amended from time to time in order to maintain compliance with the law and to reflect any changes to our data collection process. When we amend this Privacy Policy we will update the "Effective Date" at the top of this Privacy Policy. We recommend that our users periodically review our Privacy Policy to ensure that they are notified of any updates. If necessary, we may notify users by email of changes to this Privacy Policy.
 Contact Information
 If you have any questions, concerns or complaints, you can contact our privacy officer, Francisco Orta Bazán, at:
-pacerunner1@gmail.com (956) 561-6125
+Pacebud1@gmail.com (956) 561-6125
 3404 Beacon Court
