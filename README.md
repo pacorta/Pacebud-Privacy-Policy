@@ -1,4 +1,4 @@
-Pacebud Privacy Policy
+Test
 Type of website: Running App Effective date: 20th day of October, 2024
 Pacebud is owned and operated by Francisco Orta Bazán. Francisco Orta Bazán can be contacted at:
 orzansolutions@gmail.com | (956) 561-6125
